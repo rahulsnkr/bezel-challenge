@@ -71,7 +71,7 @@ const Modal: React.FC<Props> = ({ modalOpen, setModalOpen }) => {
                     <div className='font-semibold text-base text-gray-500'>
                         CONGRATS!
                     </div>
-                    <div className='font-semibold text-lg text-bezel-green text-3xl py-4'>
+                    <div className='font-semibold text-lg text-bezel-green text-4xl py-4'>
                         Your Watch Sold!
                     </div>
                     <div className='text-lg py-4'>
